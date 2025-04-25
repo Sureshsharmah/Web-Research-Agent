@@ -1,0 +1,63 @@
+2025-04-25 02:03:17,779 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 02:04:08,556 - INFO - Starting research for query: Latest advancements in quantum computing, deep_research: False, target_word_count: 700
+2025-04-25 02:04:12,157 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 02:05:12,583 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:31:27,017 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 10:40:58,920 - INFO - Starting research for query: Latest advancements in quantum computing, deep_research: False, target_word_count: 1000
+2025-04-25 10:41:02,391 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:42:11,608 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:44:22,888 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 10:45:23,263 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 10:47:20,851 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 10:50:10,618 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 10:50:41,795 - INFO - Starting research for query: Latest advancements in quantum computing, deep_research: False, target_word_count: 600
+2025-04-25 10:50:45,278 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:51:48,892 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:55:47,873 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 10:56:14,938 - INFO - Starting research for query: quantum computing, deep_research: True, target_word_count: 600
+2025-04-25 10:56:18,289 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:56:32,278 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:56:48,719 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:57:07,820 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:57:20,051 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 10:57:27,217 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 11:03:38,787 - INFO - Starting research for query: Machine Learning, deep_research: False, target_word_count: 600
+2025-04-25 11:03:42,228 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 11:04:15,996 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 12:57:17,778 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 12:58:24,183 - INFO - Starting research for query: Data Science, deep_research: True, target_word_count: 700
+2025-04-25 12:58:27,539 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 12:58:58,754 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 12:59:22,920 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:00:00,296 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:00:44,336 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:01:17,927 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:07:31,739 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 13:08:16,763 - INFO - Starting research for query: quantum computing, deep_research: True, target_word_count: 600
+2025-04-25 13:08:20,135 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:08:49,622 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:09:21,311 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:09:56,278 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:10:18,544 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:10:35,636 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:10:44,544 - INFO - Starting research for query: Artificial Intelligence, deep_research: True, target_word_count: 1000
+2025-04-25 13:10:47,715 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:10:57,094 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:11:29,525 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:11:50,876 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:12:07,486 - INFO - Starting research for query: quantum computing, deep_research: False, target_word_count: 1000
+2025-04-25 13:12:10,398 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:12:10,399 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:12:30,467 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:12:35,754 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:14:41,946 - INFO - Starting research for query: quantum computing, deep_research: False, target_word_count: 1000
+2025-04-25 13:14:42,965 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:15:16,015 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:16:46,599 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 13:17:10,343 - INFO - Starting research for query: Data Scientist, deep_research: False, target_word_count: 1000
+2025-04-25 13:17:13,930 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:17:42,482 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:24:01,587 - WARNING - [Memory(location=cache\joblib)]: Flushing completely the cache
+2025-04-25 13:25:03,626 - INFO - Starting research for query: Data Science and Artificial Intelligence, deep_research: False, target_word_count: 600
+2025-04-25 13:25:07,374 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-25 13:25:29,109 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

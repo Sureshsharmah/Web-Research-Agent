@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Data Science vs. AI: What's the Difference? - Coursera",
+    "content": "While data science uses a combination of statistical tools, methods, and technology to extract insights from data, artificial intelligence (AI) goes beyond this process by utilizing data to solve cognitive problems related to human intelligence, such as pattern recognition and learning. With that said, both data science and artificial intelligence play an important role in many modern workplaces.",
+    "url": "https://www.coursera.org/articles/data-science-vs-ai"
+  },
+  {
+    "title": "Data Science Vs. Artificial Intelligence: Understanding the Key ...",
+    "content": "Data Science Vs. Artificial Intelligence: Understanding the Key Differences - GeeksforGeeks Tutorials Python Data Visualization Tutorial Data Science Vs. Artificial Intelligence: Understanding the Key Differences Difference Between Data Science and Artificial Intelligence *Use of Machine Learning*: Machine learning is a common technique used in both Data Science and AI to analyze data and build predictive or intelligent models. Data Science is an interdisciplinary field that uses a variety of techniques to analyze data, while Artificial Intelligence is mainly a computer science field that heavily relies on machine learning. *Is Machine Learning part of Data Science or AI?* Machine Learning is a technique that can be part of both Data Science and AI. *Which should I learn first: Data Science or AI?*",
+    "url": "https://www.geeksforgeeks.org/difference-between-data-science-and-artificial-intelligence/"
+  },
+  {
+    "title": "Data Science vs. AI: How I Would Choose My Path - roadmap.sh",
+    "content": "Data science and artificial intelligence both look promising in terms of job opportunities. Both fields are in high demand, so there are plenty of job opportunities out there for you. However, artificial intelligence jobs usually pay better because they need more advanced skills and technical knowledge in machine learning and algorithm development.",
+    "url": "https://roadmap.sh/ai-data-scientist/vs-ai"
+  },
+  {
+    "title": "AI And Data Science - What Is The Difference? - Forbes",
+    "content": "AI And Data Science - What Is The Difference? AI And Data Science - What Is The Difference? In the midst of this are the terms - AI, Data Science, Machine Learning, Deep Learning, etc. In this post, I offer perspective on two of these terms - AI and Data Science, and what they (commonly) mean relative to each other. In the same way that AI is an umbrella term for intelligence, Data Science is an umbrella term for insights from data. Does AI need Data Science? As such, some advanced AIs do not necessarily require classic data science. Does Data Science need AI? However, it is possible to use AI to learn insights from data that are not visible with simple data science techniques.",
+    "url": "https://www.forbes.com/sites/nishatalagala/2022/11/10/ai-and-data-sciencewhat-is-the-difference/"
+  },
+  {
+    "title": "Artificial Intelligence in Data Science: 5 Definitive Facts - Hevo Data",
+    "content": "Learn how Artificial Intelligence and Data Science are related and different fields that use them. Explore the types, purposes, applications, and benefits of AI in DS with examples and comparisons.",
+    "url": "https://hevodata.com/learn/artificial-intelligence-in-data-science/"
+  }
+]
